@@ -18,7 +18,7 @@ product name, product price
 
 [X] 3. All products should be displayed when the page loads
 
-[ ] 4. Using an ‘add to cart’ button, the user should be able to add the
+[X] 4. Using an ‘add to cart’ button, the user should be able to add the
 products to a shopping cart list
 
 [ ] 5. The shopping cart lists all products and displays a the total price
